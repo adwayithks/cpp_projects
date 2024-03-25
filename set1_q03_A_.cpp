@@ -178,7 +178,7 @@ int main()
             break;            
         }
         case 5:
-        {   //insertion sort algorithm is implemented below
+        {   //bubble sort algorithm is implemented below
             int j=v.size()-1;
             while(j!=0)
             {
